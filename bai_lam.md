@@ -18,6 +18,7 @@ Quét qua email thô, xác định đúng các trường thông tin, phân loạ
 ### Ví dụ 2:
 **Input:**
 "Trần Thị Bình. Liên hệ: tranbinh@gmail.com. Số điện thoại 0913264241. Mình có 3 năm kinh nghiệm biết làm việc với SQL, Tableau, Python.Ứng tuyển vị trí Data Analyst"
+
 **Output:**
 | Họ tên | Email | Số điện thoại | Vị trí ứng tuyển | Năm kinh nghiệm | Kỹ năng chính |
 | :--- | :--- | :--- | :--- | :--- | :--- |
